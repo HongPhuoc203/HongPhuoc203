@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @HongPhuoc203
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-HongPhuoc203/HongPhuoc203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @HongPhuoc203 (Phước Phùng)
+- 👀 I’m interested in Full-stack Development, Cross-platform Mobile Apps (Flutter), and AI Agent / LLM Integration
+- 🌱 I’m currently sharpening my skills in AI application architectures, modern backend systems (FastAPI, .NET, Supabase), and Product Management
+- 💞️ I’m looking to collaborate on impactful web/mobile applications, generative AI tools, and open-source developer utilities
+- 📫 How to reach me: phunghongphuoc178@gmail.com
+- 😄 Pronouns: Phuocws
+- ⚡ Fun fact: I spend 80% of my time writing clean, simple code—and the other 20% convincing myself I don't need another framework.
