@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HongPhuoc203 (Phước Phùng)
+- 👋 Hi, I’m @HongPhuoc203 (HongPhuoc)
 - 👀 I’m interested in Full-stack Development, Cross-platform Mobile Apps (Flutter), and AI Agent / LLM Integration
 - 🌱 I’m currently sharpening my skills in AI application architectures, modern backend systems (FastAPI, .NET, Supabase), and Product Management
 - 💞️ I’m looking to collaborate on impactful web/mobile applications, generative AI tools, and open-source developer utilities
